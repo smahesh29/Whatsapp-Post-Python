@@ -1,4 +1,4 @@
-# Whatsapp_Post
+# Whatsapp-Post-Python
 This is a python project to send a whatsapp message.
 
 It consist of two python files:
